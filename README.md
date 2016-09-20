@@ -1,7 +1,7 @@
 # LMLSendResultAlert
 
 info alert  一款带有回调block的提示控件
-
+<br>QQ交流群：566966977   不懂可以在群里讨论
 ##效果展示图
 
 ![img](https://github.com/liaodalin19903/LMLSendResultAlert/blob/master/LMLSendResultAlert.gif)
